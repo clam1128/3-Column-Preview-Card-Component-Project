@@ -46,15 +46,11 @@ p {
   font-size: 20px;
   background: #fea82f;
   padding: 10px 20px 10px 20px;
+  height: 0;
   text-decoration: none;
-  text-align: center;
-  display: inline;
-  position: absolute;
-  top: 88%;
-  left: 10%;
-  /*position: relative;
+  position: relative;
   top: 30%;
-  left: 32.5%;*/
+  left: 32.5%;
 }
 
 .sedan-btn:hover {
@@ -102,12 +98,11 @@ p {
   font-size: 20px;
   background: #8ab6d6;
   padding: 10px 20px 10px 20px;
+  height: 0;
   text-decoration: none;
-  text-align: center;
-  display: inline;
-  position: absolute;
-  top: 88%;
-  left: 43%;
+  position: relative;
+  top: 30%;
+  left: 32.5%;
 }
 
 .suvs-btn:hover {
@@ -156,12 +151,11 @@ p {
   font-size: 20px;
   background: #206a5d;
   padding: 10px 20px 10px 20px;
+  height: 0;
   text-decoration: none;
-  text-align: center;
-  display: inline;
-  position: absolute;
-  top: 88%;
-  left: 78%;
+  position: relative;
+  top: 30%;
+  left: 32.5%;
 }
 
 .luxury-btn:hover {
